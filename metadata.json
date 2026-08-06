@@ -1,0 +1,6 @@
+{
+  "name": "KSRTC Timings Karnataka",
+  "description": "Comprehensive bus timetable schedules across Karnataka for KSRTC, Rajahamsa, Airavat, Ambari, and Sarige buses with offline access, search, and admin features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
